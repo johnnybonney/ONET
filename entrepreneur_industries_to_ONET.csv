@@ -1,0 +1,968 @@
+sic_code,byear_grp,name,title_matched,soc_code
+1.11,2008,Growing of cereals and other crops n.e.c,Soil and Plant Scientists,19-1013.00
+1.11,2009,"Growing of cereals (except rice), leguminous crops and oil seeds",Soil and Plant Scientists,19-1013.00
+1.121,2008,Growing of vegetables and horticultural specialities in open fields,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092.00
+1.122,2008,Growing of nursery products,"Buyers and Purchasing Agents, Farm Products",13-1021.00
+1.13,2008,"Growing of fruit, nuts, beverage and spice crops",Soil and Plant Scientists,19-1013.00
+1.19,2009,Growing of other non-perennial crops,Soil and Plant Scientists,19-1013.00
+1.22,2008,"Farming of sheep, goats, horses, asses, mules and hinnies","Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+1.23,2008,Farming of swine,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+1.25,2008,Other farming of animals,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+1.25,2009,Growing of other tree and bush fruits and nuts,Soil and Plant Scientists,19-1013.00
+1.29,2009,Growing of other perennial crops,Soil and Plant Scientists,19-1013.00
+1.41,2008,Agricultural service activities;landscape gardening,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092.00
+1.42,2008,"Animal husbandry service activities, except veterinary activities",Animal Caretakers,39-2021.00
+1.451,2009,Raising of sheep,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+1.479,2009,Raising of other poultry,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+1.49,2009,Raising of other animals,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+1.61,2009,Support activities for crop production,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092.00
+1.62,2009,Support activities for animal production,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+2.011,2008,"Forestry, logging and related service activities",Forest and Conservation Workers,45-4011.00
+2.2,2009,Forestry and logging,Forest and Conservation Workers,45-4011.00
+2.012,2008,Other forestry activities,Forest and Conservation Workers,45-4011.00
+2.02,2008,Forestry and logging related service activities,Logging Equipment Operators,45-4022.00
+2.1,2009,Silviculture and other forestry activities,Forest and Conservation Workers,45-4011.00
+2.4,2009,Support services to forestry,Forest and Conservation Workers,45-4011.00
+3.111,2009,Ocean and coastal water fishing,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+3.213,2009,Marine fish farming services,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+3.223,2009,Freshwater fish farming services,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+5.022,2008,Operation of hatcheries,Animal Breeders,45-2021.00
+6.1,2009,Extraction of crude petroleum,Petroleum Engineers,17-2171.00
+8.12,2009,Operation of gravel and sand pits; mining of clays and kaolin,"Rock Splitters, Quarry",47-5051.00
+9.109,2009,Other support activities for petroleum and natural gas extraction,Petroleum Engineers,17-2171.00
+10.11,2009,Processing and preserving of meat,Butchers and Meat Cutters,51-3021.00
+10.209,2009,Slaughtering and other processing and preserving of fish and fish products,"Meat, Poultry, and Fish Cutters and Trimmers",51-3022.00
+10.39,2009,Other processing and preserving of fruit and vegetables,Food Scientists and Technologists,19-1012.00
+10.51,2009,Operation of dairies and cheese making,Food Batchmakers,51-3092.00
+10.71,2009,Manufacture of bread; manufacture of fresh pastry goods and cakes,Bakers,51-3011.00
+10.89,2009,Manufacture of other food products,Food Batchmakers,51-3092.00
+10.82,2009,"Manufacture of cocoa, chocolate and sugar confectionery",Bakers,51-3011.00
+10.83,2009,Processing of tea and coffee,"Potters, Manufacturing",51-9195.05
+10.84,2009,Manufacture of condiments and seasonings,Food Batchmakers,51-3092.00
+10.85,2009,Manufacture of prepared meals and dishes,"Cooks, Restaurant",35-2014.00
+11.01,2009,"Distilling, rectifying and blending of spirits","Mixing and Blending Machine Setters, Operators, and Tenders",51-9023.00
+11.05,2009,Manufacture of beer,Food Batchmakers,51-3092.00
+11.2,2008,Service activities incidental to oil and gas extraction excluding surveying,"Service Unit Operators, Oil and Gas",47-5013.00
+13.2,2008,"Mining of non-ferrous metal ores, except uranium and thorium ores","Roof Bolters, Mining",47-5043.00
+13.3,2009,Finishing of textiles,Fabric and Apparel Patternmakers,51-6092.00
+13.929,2009,Manufacture of other textiles,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063.00
+13.96,2009,Manufacture of other technical and industrial textiles,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063.00
+14.11,2008,Quarrying of ornamental and building stone,"Stone Cutters and Carvers, Manufacturing",51-9195.03
+14.11,2009,Manufacture of leather clothes,Shoe and Leather Workers and Repairers,51-6041.00
+14.13,2008,Quarrying of slate,"Rock Splitters, Quarry",47-5051.00
+14.13,2009,Manufacture of other outerwear,Commercial and Industrial Designers,27-1021.00
+14.19,2009,Manufacture of other wearing apparel and accessories,Fashion Designers,27-1022.00
+14.21,2008,Operation of gravel and sand pits,"Rock Splitters, Quarry",47-5051.00
+14.39,2009,Manufacture of other knitted and crocheted apparel,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063.00
+15.11,2008,Production and preserving of meat,Butchers and Meat Cutters,51-3021.00
+15.13,2008,Production of meat and poultrymeat products,"Meat, Poultry, and Fish Cutters and Trimmers",51-3022.00
+15.2,2009,Manufacture of footwear,Podiatrists,29-1081.00
+15.201,2008,Drying and salting of fish,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+15.202,2008,"Freezing of fish, fishfilets, crustaceans and molluscs",Cooling and Freezing Equipment Operators and Tenders,51-9193.00
+15.203,2008,Canning of fish and fishproducts,"Meat, Poultry, and Fish Cutters and Trimmers",51-3022.00
+15.209,2008,Other processing and preserving of fish and fishproducts,"Meat, Poultry, and Fish Cutters and Trimmers",51-3022.00
+15.32,2008,Manufacture of fruit and vegetable juice,Food Batchmakers,51-3092.00
+15.51,2008,Operation of dairies and cheese making,Food Batchmakers,51-3092.00
+15.52,2008,Manufacture of ice cream,Food Batchmakers,51-3092.00
+15.61,2008,Manufacture of grain mill products,"Potters, Manufacturing",51-9195.05
+15.71,2008,Manufacture of prepared feeds for farm animals,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+15.89,2008,Manufacture of other food products,Food Batchmakers,51-3092.00
+15.81,2008,"Manufacture of bread, manufacture of fresh pastry goods and cakes",Bakers,51-3011.00
+15.84,2008,"Manufacture of cocoa, chocolate and sugar confectionery",Bakers,51-3011.00
+15.87,2008,Manufacture of condiments and seasonings,Food Batchmakers,51-3092.00
+15.88,2008,Manufacture of homogenized food preparations and dietetic food,Food Batchmakers,51-3092.00
+15.96,2008,Manufacture of beer,Food Batchmakers,51-3092.00
+15.98,2008,Production of mineral waters and soft drinks,Water Resource Specialists,11-9121.02
+16,2008,Manufacture of tobacco products,"Potters, Manufacturing",51-9195.05
+16.1,2009,Sawing and planing of wood,Cabinetmakers and Bench Carpenters,51-7011.00
+16.231,2009,Manufacture of wooden prefabricated buildings,"Model Makers, Wood",51-7031.00
+16.232,2009,Manufacture of builders' carpentry and joinery,Carpenters,47-2031.00
+17.21,2009,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+17.23,2008,Worsted-type weaving,"Sewers, Hand",51-6051.00
+17.3,2008,Finishing of textiles,Fabric and Apparel Patternmakers,51-6092.00
+17.409,2008,"Manufacture of made-up textile articles, except apparel","Pressers, Textile, Garment, and Related Materials",51-6021.00
+17.401,2008,Manufacture of household linens,"Textile Cutting Machine Setters, Operators, and Tenders",51-6062.00
+17.52,2008,"Manufacture of cordage, rope, twine and netting","Sewers, Hand",51-6051.00
+17.54,2008,Manufacture of other textiles n.e.c.,Fabric and Apparel Patternmakers,51-6092.00
+17.72,2008,"Manufacture of knitted and crocheted pullovers, cardigans and similar articles","Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063.00
+18.13,2009,Printing and service activities related to printing,Print Binding and Finishing Workers,51-5113.00
+18.12,2009,Other printing,Printing Press Operators,51-5112.00
+18.22,2008,Manufacture of other outerwear,Commercial and Industrial Designers,27-1021.00
+18.3,2008,"Dressing and dyeing of fur, manufacture of articles of fur",Textile Bleaching and Dyeing Machine Operators and Tenders,51-6061.00
+20.101,2008,Sawmilling and planing of wood,"Model Makers, Wood",51-7031.00
+20.102,2008,Impregnation of wood,"Patternmakers, Wood",51-7032.00
+20.301,2008,Manufacture of wooden prefabricated buildings,"Model Makers, Wood",51-7031.00
+20.302,2008,Manufacture of other builders' carpentry and joinery,Carpenters,47-2031.00
+20.4,2008,Manufacture of wooden containers,"Patternmakers, Wood",51-7032.00
+20.42,2009,Manufacture of perfumes and toilet preparations,"Tailors, Dressmakers, and Custom Sewers",51-6052.00
+20.51,2008,Manufacture of other products of wood,"Model Makers, Wood",51-7031.00
+20.51,2009,Manufacture of explosives,"Explosives Workers, Ordnance Handling Experts, and Blasters",47-5032.00
+21.21,2008,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+21.24,2008,Manufacture of wallpaper,Paperhangers,47-2142.00
+21.25,2008,Manufacture of other articles of paper and paperboard n.e.c.,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+22.12,2008,Publishing,Editors,27-3041.00
+22.13,2008,Publishing,Editors,27-3041.00
+22.11,2008,Publishing of books,Print Binding and Finishing Workers,51-5113.00
+22.14,2008,Publishing of sound recordings,Sound Engineering Technicians,27-4014.00
+22.15,2008,Other publishing,Editors,27-3041.00
+22.21,2009,"Manufacture of plastic plates, sheets, tubes and profiles","Layout Workers, Metal and Plastic",51-4192.00
+22.22,2008,Printing n.e.c.,Printing Press Operators,51-5112.00
+22.23,2008,Bookbinding,Print Binding and Finishing Workers,51-5113.00
+22.24,2008,Pre-press actvities,"Pressers, Textile, Garment, and Related Materials",51-6021.00
+22.25,2008,Ancillary activities related to printing,Print Binding and Finishing Workers,51-5113.00
+22.31,2008,Reproduction of sound recording,Sound Engineering Technicians,27-4014.00
+22.32,2008,Reproduction of video recording,"Camera Operators, Television, Video, and Film",27-4031.00
+23.2,2008,Manufacture of refined petroleum products,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",51-8093.00
+23.7,2009,"Cutting, shaping and finishing of stone","Stone Cutters and Carvers, Manufacturing",51-9195.03
+24.15,2008,Manufacture of fertilizers and nitrogen compounds,Soil and Plant Scientists,19-1013.00
+24.301,2008,"Manufacture of paints, varnishes and similar coatings","Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51-9124.00
+24.42,2008,Manufacture of pharmaceutical preparations,Chemists,19-2031.00
+24.51,2008,"Manufacture of soap and detergents, cleaning and polishing preparations",Laundry and Dry-Cleaning Workers,51-6011.00
+25.13,2008,Manufacture of rubber products,Tire Builders,51-9197.00
+25.11,2008,Manufacture of rubber tyres and tubes,Tire Builders,51-9197.00
+25.11,2009,Manufacture of metal structures and parts of structures,"Patternmakers, Metal and Plastic",51-4062.00
+25.12,2008,Retreading and rebuilding of rubber tyres,Tire Repairers and Changers,49-3093.00
+25.21,2008,"Manufacture of plastic plates, sheets, tubes and profiles","Layout Workers, Metal and Plastic",51-4192.00
+25.22,2008,Manufacture of plastic packing goods,"Patternmakers, Metal and Plastic",51-4062.00
+25.24,2008,Manufacture of other plastic products,"Patternmakers, Metal and Plastic",51-4062.00
+25.29,2009,"Manufacture of other tanks, reservoirs and containers of metal","Tank Car, Truck, and Ship Loaders",53-7121.00
+25.62,2009,Machining,Machinists,51-4041.00
+25.72,2009,Manufacture of locks and hinges,Locksmiths and Safe Repairers,49-9094.00
+25.73,2009,Manufacture of tools,Tool and Die Makers,51-4111.00
+25.99,2009,Manufacture of other fabricated metal products n.e.c.,"Patternmakers, Metal and Plastic",51-4062.00
+26.11,2009,Manufacture of electronic components,Electrical and Electronic Equipment Assemblers,51-2022.00
+26.12,2008,Shaping and processing of flat glass,"Glass Blowers, Molders, Benders, and Finishers",51-9195.04
+26.13,2008,Manufacture of hollow glass,"Glass Blowers, Molders, Benders, and Finishers",51-9195.04
+26.3,2008,Manufacture of ceramic tiles and flags,Tile and Stone Setters,47-2044.00
+26.61,2008,Manufacture of concrete products for construction purposes,Cement Masons and Concrete Finishers,47-2051.00
+26.63,2008,Manufacture of ready-mixed concrete,Cement Masons and Concrete Finishers,47-2051.00
+26.66,2008,"Manufacture of other articles of concrete, plaster and cement",Plasterers and Stucco Masons,47-2161.00
+26.7,2008,"Cutting, shaping and finishing of ornamental and bulding stone","Stone Cutters and Carvers, Manufacturing",51-9195.03
+26.7,2008,"Cutting, shaping and finishing of ornamental and building stone","Stone Cutters and Carvers, Manufacturing",51-9195.03
+26.82,2008,Manufacture of other non-metallic mineral products n.e.c.,Foundry Mold and Coremakers,51-4071.00
+27.4,2009,Manufacture of electrical equipment,Electrical and Electronic Equipment Assemblers,51-2022.00
+27.1,2008,Manufacture of basic iron and steel and of ferro-alloys,Structural Iron and Steel Workers,47-2221.00
+27.1,2008,"Manufacture of basic iron, and steel and of ferro-alloys",Structural Iron and Steel Workers,47-2221.00
+27.12,2009,Manufacture of electricity distribution and control apparatus,Power Distributors and Dispatchers,51-8012.00
+27.54,2008,Casting of other non-ferrous metals,Foundry Mold and Coremakers,51-4071.00
+28.11,2008,Manufacture of metal structures and parts of structures,"Patternmakers, Metal and Plastic",51-4062.00
+28.11,2009,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",Engine and Other Machine Assemblers,51-2031.00
+28.12,2008,Manufacture of builders' carpentry and joinery of metal,Structural Iron and Steel Workers,47-2221.00
+28.12,2009,Manufacture of fluid power equipment,"Derrick Operators, Oil and Gas",47-5011.00
+28.3,2009,Manufacture of agricultural and forestry machinery,Millwrights,49-9044.00
+28.4,2008,"Forging, pressing, stamping and roll forming of metal, powder metallurgy","Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51-4022.00
+28.49,2009,Manufacture of other machine tools,Tool and Die Makers,51-4111.00
+28.51,2008,Treatment and coating of metals,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",51-4193.00
+28.52,2008,General mechanical engineering,Mechanical Engineering Technologists and Technicians,17-3027.00
+28.62,2008,Manufacture of tools,Tool and Die Makers,51-4111.00
+28.63,2008,Manufacture of locks and hinges,Locksmiths and Safe Repairers,49-9094.00
+28.71,2008,Manufacture of steel drums and similar containers,"Layout Workers, Metal and Plastic",51-4192.00
+28.75,2008,Manufacture of other fabricated metal products n.e.c.,"Patternmakers, Metal and Plastic",51-4062.00
+28.91,2009,Manufacture of machinery for metallurgy,"Model Makers, Metal and Plastic",51-4061.00
+28.92,2009,"Manufacture of machinery for mining, quarrying and construction","Roof Bolters, Mining",47-5043.00
+29.12,2008,Manufacture of pumps and compressors,Gas Compressor and Gas Pumping Station Operators,53-7071.00
+29.14,2008,"Manufacture of bearings, gears, gearing and driving elements",Engine and Other Machine Assemblers,51-2031.00
+29.221,2008,Manufacture of other general purpose machinery,Engine and Other Machine Assemblers,51-2031.00
+29.229,2008,Manufacture of other lifting and handling equipment,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+29.23,2008,Manufacture of non-domestic cooling and ventilation equipment,Cooling and Freezing Equipment Operators and Tenders,51-9193.00
+29.24,2008,Manufacture of other general purpose machinery n.e.c.,Engine and Other Machine Assemblers,51-2031.00
+29.31,2008,Manufacture of agricultural tractors,Industrial Truck and Tractor Operators,53-7051.00
+29.32,2008,Manufacture of other agricultural and forestry machinery,Engine and Other Machine Assemblers,51-2031.00
+29.4,2008,Manufacture of machine tools,Tool and Die Makers,51-4111.00
+29.42,2008,Manufacture of other metalworking machine tools,Tool and Die Makers,51-4111.00
+29.52,2008,"Manufacture of machinery for mining, quarrying and construction","Roof Bolters, Mining",47-5043.00
+29.53,2008,"Manufacture of machinery for food, beverage and tobacco processing","Potters, Manufacturing",51-9195.05
+29.56,2008,Manufacture of other special purpose machinery n.e.c.,Engine and Other Machine Assemblers,51-2031.00
+29.71,2008,Manufacture of electric domestic appliances,Home Appliance Repairers,49-9031.00
+29.72,2008,Manufacture of non-electric domestic appliances,Home Appliance Repairers,49-9031.00
+30.112,2009,Manufacture of other transport equipment,"Tank Car, Truck, and Ship Loaders",53-7121.00
+30.02,2008,Manufacture of computers and other information processing equipment,Engine and Other Machine Assemblers,51-2031.00
+30.115,2009,Installation and completion work on ships more than 100 g.r.tons,Ship Engineers,53-5031.00
+31.5,2008,Manufacture of electrical machinery and apparatus n.e.c.,Electrical and Electronic Equipment Assemblers,51-2022.00
+31.01,2009,Manufacture of office and shop furniture,Cabinetmakers and Bench Carpenters,51-7011.00
+31.09,2009,Manufacture of other furniture,Furniture Finishers,51-7021.00
+31.1,2008,"Manufacture of electric motors, generators and transformers","Electric Motor, Power Tool, and Related Repairers",49-2092.00
+31.2,2008,Manufacture of electricity distribution and control apparatus,Power Distributors and Dispatchers,51-8012.00
+31.3,2008,Manufacture of insulated wire and cable,"Insulation Workers, Floor, Ceiling, and Wall",47-2131.00
+31.62,2008,Manufacture of other electrical equipment n.e.c.,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094.00
+32.1,2008,Manufacture of electronic valves and tubes and other electronic components,"Control and Valve Installers and Repairers, Except Mechanical Door",49-9012.00
+32.2,2008,Manufacture of television and radio transmitters and apparatus for line telephony and line telegraphy,"Radio, Cellular, and Tower Equipment Installers and Repairers",49-2021.00
+32.3,2008,"Manufacture of television and radio receivers, sound or video recording or reproducing apparatus and associated goods",Audiovisual Equipment Installers and Repairers,49-2097.00
+32.3,2009,Manufacture of sports goods,Athletes and Sports Competitors,27-2021.00
+32.4,2009,Manufacture of games and toys,Commercial and Industrial Designers,27-1021.00
+32.99,2009,Other manufacturing n.e.c.,"Model Makers, Metal and Plastic",51-4061.00
+33.1,2008,Manufacture of medical and surgical equipment and orthopaedic appliances,Medical Appliance Technicians,51-9082.00
+33.11,2009,Repair of fabricated metal products,"Refractory Materials Repairers, Except Brickmasons",49-9045.00
+33.12,2009,Repair of machinery,"Maintenance Workers, Machinery",49-9043.00
+33.14,2009,Repair of electrical equipment,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094.00
+33.15,2009,Repair and maintenance of ships and boats,Sailors and Marine Oilers,53-5011.00
+33.3,2008,Manufacture of industrial process control equipment,Industrial Engineers,17-2112.00
+33.4,2008,Manufacture of optical instruments and photographic equipment,Ophthalmic Laboratory Technicians,51-9083.00
+34.2,2008,"Manufacture of bodies (coachwork) for motor vehicles, manufacture of trailers and semi-trailers",Automotive Body and Related Repairers,49-3021.00
+34.3,2008,Manufacture of parts and accessories for motor vehicles and their engines,Engine and Other Machine Assemblers,51-2031.00
+35.111,2008,Building and repairing of ships and hulls more than 100 g.r.tons,"Layout Workers, Metal and Plastic",51-4192.00
+35.111,2009,Production of electricity through water power,Hydroelectric Production Managers,11-3051.06
+35.112,2008,Installation- and completion work on ships more than 100 g.r.tons,Ship Engineers,53-5031.00
+35.113,2008,Building and repairing of ships less than 100 g.r.tons,Sailors and Marine Oilers,53-5011.00
+35.114,2008,Building and repairing of oilplatforms and modules,"Roustabouts, Oil and Gas",47-5071.00
+35.114,2009,Production of electricity through natural gas,Gas Compressor and Gas Pumping Station Operators,53-7071.00
+35.12,2008,Building and repairing of pleasure and sporting boats,Motorboat Mechanics and Service Technicians,49-3051.00
+35.14,2009,Trade of electricity,Power Distributors and Dispatchers,51-8012.00
+35.3,2009,Steam and air conditioning supply,Power Distributors and Dispatchers,51-8012.00
+35.43,2008,Manufacture of invalid carriages,Millwrights,49-9044.00
+36.22,2008,"Manufacture of furniture, manufacturing n.e.c.",Commercial and Industrial Designers,27-1021.00
+36,2009,"Water collection, treatment and supply",Water and Wastewater Treatment Plant and System Operators,51-8031.00
+36.11,2008,Manufacture of chairs and seats,Shoe and Leather Workers and Repairers,51-6041.00
+36.12,2008,Manufacture of other office and shop furniture,Cabinetmakers and Bench Carpenters,51-7011.00
+36.13,2008,Manufacture of other kitchen furniture,Cabinetmakers and Bench Carpenters,51-7011.00
+36.14,2008,Manufacture of other furniture,Furniture Finishers,51-7021.00
+36.3,2008,Manufacture of musical instruments,Musical Instrument Repairers and Tuners,49-9063.00
+36.4,2008,Manufacture of sports goods,Athletes and Sports Competitors,27-2021.00
+36.5,2008,Manufacture of games and toys,Commercial and Industrial Designers,27-1021.00
+36.63,2008,Other manufacturing n.e.c.,"Model Makers, Metal and Plastic",51-4061.00
+37,2009,Sewerage,Septic Tank Servicers and Sewer Pipe Cleaners,47-4071.00
+37.1,2008,Recycling of metal waste and scrap,Recycling and Reclamation Workers,53-7062.04
+37.2,2008,Recycling of non-metal waste and scrap,Recycling and Reclamation Workers,53-7062.04
+38.11,2009,Collection of non-hazardous waste,Refuse and Recyclable Material Collectors,53-7081.00
+38.22,2009,Treatment and disposal of hazardous waste,Recycling and Reclamation Workers,53-7062.04
+40.101,2008,Production and distribution of electricity,Power Distributors and Dispatchers,51-8012.00
+40.11,2008,Production  of electricity,Power Distributors and Dispatchers,51-8012.00
+40.11,2008,Production of electricity,Power Distributors and Dispatchers,51-8012.00
+40.3,2008,Steam and hot water supply,"Plumbers, Pipefitters, and Steamfitters",47-2152.00
+41,2008,"Collection, purification and distribution of water",Water and Wastewater Treatment Plant and System Operators,51-8031.00
+41.109,2009,Other development and sale of real estate,"Property, Real Estate, and Community Association Managers",11-9141.00
+41.2,2009,Construction of residential and non-residential buildings,Manufactured Building and Mobile Home Installers,49-9095.00
+42.11,2009,Construction of roads and motorways,Tire Builders,51-9197.00
+42.21,2009,Construction of utility projects for fluids,Water/Wastewater Engineers,17-2051.02
+42.22,2009,Construction of utility projects for electricity and telecommunications,Electrical Power-Line Installers and Repairers,49-9051.00
+42.91,2009,Construction of water projects,Water/Wastewater Engineers,17-2051.02
+43.12,2009,Site preparation,"Mining and Geological Engineers, Including Mining Safety Engineers",17-2151.00
+43.21,2009,Electrical installation,Electrical Power-Line Installers and Repairers,49-9051.00
+43.22,2009,"Plumbing, heat and air-conditioning installation","Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021.00
+43.221,2009,Plumbing- and ventilation-installation,"Plumbers, Pipefitters, and Steamfitters",47-2152.00
+43.222,2009,Refrigeration- and heat pump installation,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021.00
+43.29,2009,Other construction installation,Manufactured Building and Mobile Home Installers,49-9095.00
+43.32,2009,Joinery installation,Adhesive Bonding Machine Operators and Tenders,51-9191.00
+43.33,2009,Floor and wall covering,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042.00
+43.341,2009,Painting,"Painters, Construction and Maintenance",47-2141.00
+43.342,2009,Glazing,Glaziers,47-2121.00
+43.39,2009,Other building completion and finishing,Manufactured Building and Mobile Home Installers,49-9095.00
+43.911,2009,Other specialised construction activities,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+43.919,2009,Other erection of roof covering and frames,Roofers,47-2181.00
+43.99,2009,Other specialised construction activities n.e.c.,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+45.11,2008,"Demolition and wrecking of buildings, earth moving",Manufactured Building and Mobile Home Installers,49-9095.00
+45.111,2009,"Commission and wholesale trade of cars and light motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.112,2009,"Retail sale of cars and light motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.191,2009,"Commission and wholesale trade of other motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.192,2009,"Retail sale of other motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.25,2008,"Building of complete constructions or parts thereof, civil engineering",Carpenters,47-2031.00
+45.2,2008,"Building of complete constructions or parts thereof, civil engineering",Carpenters,47-2031.00
+45.221,2008,"Building of complete constructions or parts thereof, civil engineering",Carpenters,47-2031.00
+45.2,2009,Maintenance and repair of motor vehicles,"Maintenance Workers, Machinery",49-9043.00
+45.211,2008,General construction of buildings,"Architects, Except Landscape and Naval",17-1011.00
+45.212,2008,General construction of civil engineering works,Civil Engineers,17-2051.00
+45.229,2008,Other erection of roof covering and frames,Roofers,47-2181.00
+45.23,2008,"Construction of motorways, roads, airfields and sport facilities",Tire Builders,51-9197.00
+45.24,2008,Construction of water projects,Water/Wastewater Engineers,17-2051.02
+45.31,2008,Installation of electrical wiring and fittings,Electrical Power-Line Installers and Repairers,49-9051.00
+45.31,2009,Wholesale trade of motor vehicle parts and accessories,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.32,2008,Insulation work activities,"Insulation Workers, Floor, Ceiling, and Wall",47-2131.00
+45.32,2009,Retail trade of motor vehicle parts and accessories,Parts Salespersons,41-2022.00
+45.33,2008,Plumbing,"Plumbers, Pipefitters, and Steamfitters",47-2152.00
+45.34,2008,Other buiding installation,Security and Fire Alarm Systems Installers,49-2098.00
+45.401,2009,"Commission and wholesale trade of motorcycles, parts and accessories","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.403,2009,Maintenance and repair of motorcycles,Motorcycle Mechanics,49-3052.00
+45.42,2008,Joinery installation,Adhesive Bonding Machine Operators and Tenders,51-9191.00
+45.43,2008,Floor and wall covering,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042.00
+45.441,2008,Painting,"Painters, Construction and Maintenance",47-2141.00
+45.442,2008,Glazing,Glaziers,47-2121.00
+45.45,2008,Other building completion,Manufactured Building and Mobile Home Installers,49-9095.00
+45.5,2008,Renting of construction or demolition equipment with operator,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+46.13,2009,Agents involved in the sale of timber and building materials,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.14,2009,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.15,2009,"Agents involved in the sale of furniture, household goods, hardware and ironmongery","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.16,2009,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.17,2009,"Agents involved in the sale of food, beverages and tobacco","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.18,2009,Agents specialised in the sale of other particular products,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.21,2009,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds","Buyers and Purchasing Agents, Farm Products",13-1021.00
+46.22,2009,Wholesale of flowers and plants,Floral Designers,27-1023.00
+46.31,2009,Wholesale of fruit and vegetables,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.32,2009,Wholesale of meat and meat products,Butchers and Meat Cutters,51-3021.00
+46.341,2009,Wholesale of wines and spirits,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.36,2009,Wholesale of sugar and chocolate and sugar confectionery,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.37,2009,"Wholesale of coffee, tea, cocoa and spices","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.381,2009,"Wholesale of fish, crustaceans and molluscs","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.389,2009,Wholesale of other food n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.39,2009,"Non-specialised wholesale of food, beverages and tobacco","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.473,2009,Wholesale of household goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.41,2009,Wholesale of textiles,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.421,2009,Wholesale of clothing,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.422,2009,Wholesale of footwear,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.431,2009,Wholesale of electrical household appliances and -machines,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.432,2009,Wholesale of radio and television goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.433,2009,"Wholesale of gramophone records, tapes, CD's and videos","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.441,2009,Wholesale of china and glassware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.45,2009,Wholesale of perfume and cosmetics,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.46,2009,Wholesale of pharmaceutical goods,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.471,2009,Wholesale of furniture,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.482,2009,Wholesale of gold and silver ware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.491,2009,"Wholesale of books, newspapers and magazines","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.492,2009,Wholesale of travel accessories and leather goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.493,2009,Wholesale of pleasure boats and -equipment,Motorboat Operators,53-5022.00
+46.494,2009,Wholesale of sporting equipment,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.495,2009,Wholesale of games and toys,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.499,2009,Wholesale of other household and personal goods n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.51,2009,"Wholesale of computers, computer peripheral equipment and software","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.52,2009,Wholesale of electronic and telecommunications equipment and parts,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.61,2009,"Wholesale of agricultural machinery, equipment and supplies","Buyers and Purchasing Agents, Farm Products",13-1021.00
+46.62,2009,Wholesale of machine tools,Tool and Die Makers,51-4111.00
+46.63,2009,"Wholesale of mining, construction and civil engineering machinery",Millwrights,49-9044.00
+46.66,2009,Wholesale of other office machinery and equipment,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+46.691,2009,Wholesale of machinery and equipment for energy production and installation,Millwrights,49-9044.00
+46.692,2009,Wholesale of shipping equipment and fishing tackle,"Packers and Packagers, Hand",53-7064.00
+46.693,2009,Wholesale of machinery and equipment for manufacturing n.e.c.,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.694,2009,"Wholesale of machinery and equipment for trade, transport and services n.e.c.","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.71,2009,"Wholesale of solid, liquid and gaseous fuels and related products","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.732,2009,Wholesale of lumber,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.739,2009,Wholesale of construction materials n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.74,2009,"Wholesale of hardware, plumbing and heating equipment and supplies","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.75,2009,Wholesale of chemical products,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.769,2009,Wholesale of other intermediate products n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.77,2009,Wholesale of waste and scrap,Recycling and Reclamation Workers,53-7062.04
+46.9,2009,Non-specialised wholesale trade,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.111,2009,"Retail sale in non-specialised stores with food, beverages or tobacco predominating","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.112,2009,"Retail sale in non-specialised kiosks with food, beverages or tobacco predominating","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.19,2009,Other retail sale in non-specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.22,2009,Retail sale of meat and meat products in specialised stores,Butchers and Meat Cutters,51-3021.00
+47.23,2009,"Retail sale of fish, crustaceans and molluscs in specialised stores","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.241,2009,"Retail sale of bread, cakes and flour confectionery in specialised stores","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.259,2009,Retail sale of beverages n.e.c. in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.291,2009,Retail sale of health foods in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.299,2009,"Retail sale of food, beverages and tobacco in specialised stores n.e.c.","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.3,2009,Retail sale of automotive fuel in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.41,2009,"Retail sale of computers, peripheral units and software in specialised stores","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.43,2009,Retail sale of audio and video equipment in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.51,2009,Retail sale of textiles in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.521,2009,"Retail sale of variety of hardware, paints and glass in specialised stores",Merchandise Displayers and Window Trimmers,27-1026.00
+47.522,2009,Retail sale of hardware in specialised stores,Retail Salespersons,41-2031.00
+47.523,2009,Retail sale of paints and varnish in specialised stores,"Painting, Coating, and Decorating Workers",51-9123.00
+47.529,2009,Retail sale of building material  n.e.c. in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.54,2009,Retail sale of electrical household appliances in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.591,2009,Retail sale of furniture in specialised stores,Retail Salespersons,41-2031.00
+47.593,2009,Retail sale of china and glassware in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.594,2009,Retail sale of musical instruments and scores in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.599,2009,Retail sale of non-electrical household articles n.e.c. in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.61,2009,Retail sale of books in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.641,2009,Retail sale of sporting equipment in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.642,2009,Retail sale of pleasure boats and equipment in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.65,2009,Retail sale of games and toys in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.71,2009,Retail sale of clothing in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.721,2009,Retail sale of footwear in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.73,2009,Dispensing chemist in specialised stores,Chemists,19-2031.00
+47.75,2009,Retail sale of cosmetic and toilet articles in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.761,2009,"Retail sale of flowers, plants, seeds and fertilisers in specialised stores","Buyers and Purchasing Agents, Farm Products",13-1021.00
+47.762,2009,Retail sale of pet animals and pet food in specialised stores,Animal Caretakers,39-2021.00
+47.771,2009,Retail sale of watches and clocks in specialised stores,Watch and Clock Repairers,49-9064.00
+47.772,2009,Retail sale of gold and silver ware in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.781,2009,Retail sale of photographic goods in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.782,2009,Retail sale of optical goods in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.789,2009,Other retail sale of goods in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.791,2009,Retail sale of antiques,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.799,2009,Retail sale of second-hand goods n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.81,2009,"Retail sale via stalls and markets of food, beverages and tobacco products",Merchandise Displayers and Window Trimmers,27-1026.00
+47.911,2009,Retail sale of variety of goods via mail order houses or via Internet,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.912,2009,"Retail sale of textiles, clothes, footwear, travel accessories and leather goods via mail order houses or via Internet","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.913,2009,"Retail sale of lighting equipment, china and glass, furniture and non-electrical household articles via mail order houses or via Internet","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.914,2009,"Retail sale of electrical household appliances, radio, television, gramophone records, tapes, CD's and musical instruments via mail order houses or via Internet","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.917,2009,Retail sale of health foods in specialised stores or via Internet,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.919,2009,Other retail sale of specialised assortment of goods via mail order houses or via Internet,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.99,2009,"Other retail sale not in stores, stalls or markets","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+49.32,2009,Other passenger land transport,"Bus Drivers, Transit and Intercity",53-3052.00
+49.392,2009,Charters and excursions bus services,"Bus Drivers, Transit and Intercity",53-3052.00
+49.41,2009,Freight transport by road,Cargo and Freight Agents,43-5011.00
+49.42,2009,Removal services,Hazardous Materials Removal Workers,47-4041.00
+50.101,2008,Commission- and wholesale of motor vehicles,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+50.102,2008,Retail sale of motor vehicles,Retail Salespersons,41-2031.00
+50.109,2009,Other passenger transport in coastal waters,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+50.2,2008,Maintenance and repair of motor vehicles,"Maintenance Workers, Machinery",49-9043.00
+50.201,2009,Freight ocean transport,Cargo and Freight Agents,43-5011.00
+50.202,2009,Freight coastal transport,Cargo and Freight Agents,43-5011.00
+50.203,2009,Tugs,"Sewers, Hand",51-6051.00
+50.301,2008,Commission- and wholesale of motor vehicle parts and accessories,Parts Salespersons,41-2022.00
+50.302,2008,Retail sale of motor vehicle parts and accessories,Parts Salespersons,41-2022.00
+50.401,2008,"Commission- and wholesale of motorcycles, parts and accessories",Bicycle Repairers,49-3091.00
+50.402,2008,"Retail sale of motorcycles, parts and accessories",Parts Salespersons,41-2022.00
+50.5,2008,Retail sale of automotive fuel,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.7,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.654,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.66,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.64,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.652,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.62,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.653,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.61,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.651,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.63,2008,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.12,2008,"Agents involved in the sale of fuels, ores, metals and industrial chemicals","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.13,2008,Agents involved in the sale of timber and building materials,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.14,2008,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.15,2008,"Agents involved in the sale of furniture, household goods, hardware and ironmongery","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.16,2008,"Agents involved in the sale of textiles, clothing, footwear and leather goods","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.17,2008,"Agents involved in the sale of food, beverages and tobacco","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.18,2008,Agents specializing in the sale of particular products or ranges of products n.e.c.,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.19,2008,Agents involved in the sale of a variety of goods,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+51.21,2008,"Wholesale of grain, seeds and animal feeds","Buyers and Purchasing Agents, Farm Products",13-1021.00
+51.22,2008,Wholesale of flowers and plants,Floral Designers,27-1023.00
+51.23,2008,Wholesale of live animals,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+51.31,2008,Wholesale of fruit and vegetables,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.32,2008,Wholesale of meat and meat products,Butchers and Meat Cutters,51-3021.00
+51.341,2008,Wholesale of wines and spirits,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.349,2008,Wholesale of beverages n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.36,2008,"Wholesale of sugar, chocolate and sugar confectionery","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.37,2008,"Wholesale of coffee, tea, cocoa and spices","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.381,2008,Wholesale of fish and crustaceans,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.389,2008,Wholesale of molluscs n.e.c.,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.39,2008,"Non-specialized wholesale of food, beverages and tobacco","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.431,2008,Wholesale of household goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.41,2008,Wholesale of textiles,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.421,2008,Wholesale of clothing,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.422,2008,Wholesale of footwear,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.432,2008,Wholesale of electrical household appliances,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.433,2008,Wholesale of radio and television goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.434,2008,"Wholesale of grammophone records, tapes, CD's,DVD's and videos","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.441,2008,Wholesale of china and glassware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.442,2008,Wholesale of wallpaper and cleaning materials,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+51.45,2008,Wholesale of perfume and cosmetics,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.46,2008,Wholesale of pharmaceutical goods,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.471,2008,"Wholesale of books, newspapers and magazines","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.472,2008,Wholesale of furniture and non-electrical household articles,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.473,2008,Wholesale of floor coverings and carpets,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042.00
+51.475,2008,"Wholesale of watches, photographic- and optical goods",Merchandise Displayers and Window Trimmers,27-1026.00
+51.476,2008,Wholesale of gold and silver ware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.477,2008,"Wholesale of sport goods, games and toys","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.479,2008,Wholesale of household goods and personal goods n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.51,2008,"Wholesale of solid, liquid and gaseous fuels and related products","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.52,2008,Wholesale of metals and metal ores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.531,2008,Wholesale of timber,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.532,2008,Wholesale of lumber,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.533,2008,Wholesale of paints and varnish,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51-9124.00
+51.539,2008,Wholesale of construction materials n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.54,2008,"Wholesale of hardware, plumbing and heating equipment and supplies","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.55,2008,Wholesale of chemical products,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.561,2008,Wholesale of paper and paperboard,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+51.57,2008,Wholesale of waste and scrap,Recycling and Reclamation Workers,53-7062.04
+51.81,2008,Wholesale of machine tools,Tool and Die Makers,51-4111.00
+51.82,2008,"Wholesale of mining, construction and civil engineering machinery",Millwrights,49-9044.00
+51.84,2008,"Wholesale of computers, computer peripheral equipment and software","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.85,2008,Wholesale of other office machinery and equipment,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+51.86,2008,Wholesale of other electronic parts and equipment,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+51.871,2008,Wholesale of machinery and equipment for energy production and installation,Millwrights,49-9044.00
+51.872,2008,Wholesale of shipping equipment and fishing tackle,"Packers and Packagers, Hand",53-7064.00
+51.873,2008,"Wholesale of machinery and equipment for oil and gas extraction, mining and manufacturing n.e.c.","Service Unit Operators, Oil and Gas",47-5013.00
+51.874,2008,"Wholesale of machinery and equipment for trade, transport and services n.e.c.","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+51.88,2008,"Wholesale of agricultural machinery and accessories and implements, including tractors","Buyers and Purchasing Agents, Farm Products",13-1021.00
+51.9,2008,Other wholesale,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.1,2009,Warehousing and storage,Data Warehousing Specialists,15-1243.01
+52.11,2008,"Retail sale in non-specialized stores with food, beverages or tobacco predominating","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.12,2008,Other retail sale in non-specialized stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.214,2009,Support activities for transportation,"Bus Drivers, Transit and Intercity",53-3052.00
+52.221,2009,Support activities for transportation,"Bus Drivers, Transit and Intercity",53-3052.00
+52.212,2009,Operation of car parks and garages,Parking Attendants,53-6021.00
+52.219,2009,Other services incidental to land transport,"Bus Drivers, Transit and Intercity",53-3052.00
+52.22,2008,Retail sale of meat and meat products,Butchers and Meat Cutters,51-3021.00
+52.222,2009,Sea rescue services,Sailors and Marine Oilers,53-5011.00
+52.229,2009,Other services incidental to water transportation,Automotive and Watercraft Service Attendants,53-6031.00
+52.23,2008,"Retail sale of fish, crustaceans and molluscs","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.241,2008,"Retail sale of bread, cakes and flour confectionery","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.252,2008,Retail sale of beverages n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.271,2008,Retail sale of health foods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.272,2008,Retail sale of coffee and tea,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.279,2008,"Retail sale of food, beverages and tobacco in specialized stores n.e.c.",Merchandise Displayers and Window Trimmers,27-1026.00
+52.291,2009,Freight forwarding services,Freight Forwarders,43-5011.01
+52.31,2008,Dispensing chemists,Chemists,19-2031.00
+52.32,2008,Retail sale of medical and orthopaedic goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.33,2008,Retail sale of cosmetic and toilet articles,Merchandise Displayers and Window Trimmers,27-1026.00
+52.441,2008,Other retail sale of new goods in specialized stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.41,2008,Retail sale of textiles,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.42,2008,Retail sale of clothing,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.431,2008,Retail sale of footwear,Podiatrists,29-1081.00
+52.432,2008,Retail sale of travel accessories of leather and leather substitudes and leather goods,Shoe and Leather Workers and Repairers,51-6041.00
+52.442,2008,Retail sale of china and glassware,Merchandise Displayers and Window Trimmers,27-1026.00
+52.443,2008,Retail sale of furniture,Retail Salespersons,41-2031.00
+52.449,2008,Retail sale of non-electrical household articles n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.451,2008,Retail sale of electrical household appliances and radio and television goods,Merchandise Displayers and Window Trimmers,27-1026.00
+52.452,2008,"Retail sale of grammophone records, tapes, CD'd, DVD's and videos","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.453,2008,Retail sale of musical instruments and musical notes,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.461,2008,"Retail sale of variety of hardware, paints and glass",Merchandise Displayers and Window Trimmers,27-1026.00
+52.462,2008,Retail sale of hardware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.463,2008,Retail sale of paints and varnish,"Painting, Coating, and Decorating Workers",51-9123.00
+52.464,2008,Retail sale of wood,"Buyers and Purchasing Agents, Farm Products",13-1021.00
+52.469,2008,"Retail sale of hardware, paints and glass n.e.c.",Merchandise Displayers and Window Trimmers,27-1026.00
+52.471,2008,Retail sale of books and stationery,Merchandise Displayers and Window Trimmers,27-1026.00
+52.481,2008,"Retail sale of watches, photographic- and optical goods",Merchandise Displayers and Window Trimmers,27-1026.00
+52.482,2008,Retail sale of gold and silver ware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.483,2008,"Retail sale of sport goods, games and toys","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.484,2008,Retail sale of flower and plants,Floral Designers,27-1023.00
+52.485,2008,"Retail sale of computers, office- and telecommunication equipment","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.486,2008,Retail sale of wallpaper and floor coverings,Merchandise Displayers and Window Trimmers,27-1026.00
+52.487,2008,Retail sale of carpets,Merchandise Displayers and Window Trimmers,27-1026.00
+52.489,2008,Retail sale in specialized stores n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.501,2008,Retail sale of antiques,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.509,2008,Retail sale of second-hand goods n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.611,2008,Retail sale of variety of goods via mail order houses,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.612,2008,"Retail sale of textiles, clothes, footwear, travel accessories and leather goods via mail order houses","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.613,2008,"Retail sale of lighting equipment, china and glass, furniture and non-electrical household articles via mail order houses","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.614,2008,"Retail sale of electrical household appliances, radio, television, grammophone records, tapes, CD's, DVD's and musical instruments via mail order houses","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.615,2008,"Retail sale of books, paper, newspapers and magazines via mail order houses","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.619,2008,Other retail sale of specialized assortment of goods via mail order houses,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.62,2008,Retail sale via stalls and markets,Retail Salespersons,41-2031.00
+52.63,2008,Other non-stores retail sale,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+52.71,2008,"Repair of boots, shoes and other articles of leather",Shoe and Leather Workers and Repairers,51-6041.00
+52.72,2008,Repair of electrical household goods,Home Appliance Repairers,49-9031.00
+52.73,2008,"Repair of watches, clocks and jewellery",Watch and Clock Repairers,49-9064.00
+52.74,2008,Repair n.e.c.,Medical Equipment Repairers,49-9062.00
+53.2,2009,Other postal and courier activities,Couriers and Messengers,43-5021.00
+55.11,2008,Hotels,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+55.12,2008,Hotels,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+55.101,2008,Hotels and motels with restaurant,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+55.101,2009,Hotels and motels with restaurant,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+55.102,2008,Hotels and motels without restaurant,"Food Servers, Nonrestaurant",35-3041.00
+55.201,2009,Hostels,"Locker Room, Coatroom, and Dressing Room Attendants",39-3093.00
+55.202,2009,Holiday apartments,Manufactured Building and Mobile Home Installers,49-9095.00
+55.21,2008,Youth hostels and mountain refuges,"Child, Family, and School Social Workers",21-1021.00
+55.22,2008,"Camping sites, including caravan sites",Travel Guides,39-7012.00
+55.23,2008,Other provision of lodgings n.e.c.,Lodging Managers,11-9081.00
+55.3,2009,"Camping sites, including caravan sites",Travel Guides,39-7012.00
+55.301,2008,Operation of restaurants and cafés,Waiters and Waitresses,35-3031.00
+55.302,2008,"Operation of snackbars, salad bars and hot dog bars","Cooks, Restaurant",35-2014.00
+55.4,2008,Bars,Bartenders,35-3011.00
+55.401,2008,Pubs,Bartenders,35-3011.00
+55.402,2008,Coffee- and tea bars,Bartenders,35-3011.00
+55.51,2008,Canteens,"Cooks, Institution and Cafeteria",35-2012.00
+55.52,2008,Catering,"Food Servers, Nonrestaurant",35-3041.00
+55.9,2009,Other accommodation,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031.00
+56.101,2009,Operation of restaurants and cafes,Waiters and Waitresses,35-3031.00
+56.102,2009,"Operation of snack-bars, salad bars and hot-dog bars","Cooks, Institution and Cafeteria",35-2012.00
+56.21,2009,Event catering activities,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031.00
+56.29,2009,Other food services,"Food Servers, Nonrestaurant",35-3041.00
+56.301,2009,Pubs,Bartenders,35-3011.00
+56.309,2009,Other beverage serving activities,Bartenders,35-3011.00
+58.13,2009,"Publishing of books, periodicals and other publishing activities",Librarians and Media Collections Specialists,25-4022.00
+58.14,2009,"Publishing of books, periodicals and other publishing activities",Librarians and Media Collections Specialists,25-4022.00
+58.11,2009,Book publishing,Print Binding and Finishing Workers,51-5113.00
+58.19,2009,Other publishing activities,Editors,27-3041.00
+58.29,2009,Other software publishing,Desktop Publishers,43-9031.00
+59.11,2009,"Motion picture, video and television programme production activities","Camera Operators, Television, Video, and Film",27-4031.00
+59.12,2009,"Motion picture, video and television programme post-production activities","Camera Operators, Television, Video, and Film",27-4031.00
+59.14,2009,Motion picture projection activities,Motion Picture Projectionists,39-3021.00
+59.2,2009,Sound recording and music publishing activities,Sound Engineering Technicians,27-4014.00
+60.22,2008,Other land transport,"Bus Drivers, Transit and Intercity",53-3052.00
+60.2,2009,Television programming and broadcasting activities,Media Programming Directors,27-2012.03
+60.211,2008,Scheduled motor bus transport,"Bus Drivers, Transit and Intercity",53-3052.00
+60.23,2008,Other land passenger transport,"Bus Drivers, Transit and Intercity",53-3052.00
+60.24,2008,Freight transport by road,Cargo and Freight Agents,43-5011.00
+61.101,2008,Sea and coastal water transport,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+61.105,2008,Sea and coastal water transport,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+61.1,2009,Wired telecommunications activities,Telecommunications Engineering Specialists,15-1241.01
+61.103,2008,Domestic freight transport,Cargo and Freight Agents,43-5011.00
+61.104,2008,Scheduled long distance inland transport in coastal waters,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+61.106,2008,Tug- and supplyvessels,Packaging and Filling Machine Operators and Tenders,51-9111.00
+61.109,2008,Other coastal water transport in Norway,Bridge and Lock Tenders,53-6011.00
+61.2,2008,Inland water transport,Hydrologists,19-2043.00
+61.2,2009,Wireless telecommunications activities,"Radio, Cellular, and Tower Equipment Installers and Repairers",49-2021.00
+61.9,2009,Other telecommunications activities,Telecommunications Engineering Specialists,15-1241.01
+62.09,2009,Computer programming; consultancy and related activities,Computer Programmers,15-1251.00
+62.09,2009,"Computer programming, consultancy and related activities",Computer Programmers,15-1251.00
+62.03,2009,Computer programming; consultancy and related activities,Computer Programmers,15-1251.00
+62.03,2009,"Computer programming, consultancy and related activities",Computer Programmers,15-1251.00
+62.01,2009,Computer programming activities,Computer Programmers,15-1251.00
+62.02,2009,Computer consultancy activities,Computer and Information Systems Managers,11-3021.00
+62.2,2008,Non-scheduled air transport,"Airline Pilots, Copilots, and Flight Engineers",53-2011.00
+63.112,2008,Cargo handling and storage,Aircraft Cargo Handling Supervisors,53-1041.00
+63.11,2009,"Data processing, hosting and related activities",Network and Computer Systems Administrators,15-1244.00
+63.12,2008,Storage and warehousing,Data Warehousing Specialists,15-1243.01
+63.23,2008,Other supporting transport activities,"Bus Drivers, Transit and Intercity",53-3052.00
+63.211,2008,Central agencies for goods and transportation procurement,Cargo and Freight Agents,43-5011.00
+63.212,2008,Parking places and parking houses,Parking Attendants,53-6021.00
+63.219,2008,Other services allied to land transport,"Bus Drivers, Transit and Intercity",53-3052.00
+63.221,2008,Operations of harbours,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+63.223,2008,Rescue services,Public Safety Telecommunicators,43-5031.00
+63.229,2008,Other supporting water transport activities,Water Resource Specialists,11-9121.02
+63.305,2008,"Activities of travel agencies and tour operators, tourist assistance activities n.e.c.",Travel Guides,39-7012.00
+63.301,2008,Travel agencies,Travel Agents,41-3041.00
+63.302,2008,Tourist offices,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+63.303,2008,Tour operator,Tour Guides and Escorts,39-7011.00
+63.304,2008,Tour guides and leaders,Travel Guides,39-7012.00
+63.309,2008,Tourist related activities n.e.c.,Travel Guides,39-7012.00
+63.403,2008,Activities of other transport agencies,Transit and Railroad Police,33-3052.00
+63.401,2008,Freight forwarding services,Freight Forwarders,43-5011.01
+63.402,2008,Ship brokerage services,Brokerage Clerks,43-4011.00
+63.409,2008,Other forwarding services,Freight Forwarders,43-5011.01
+63.99,2009,Other information service activities n.e.c.,Computer and Information Systems Managers,11-3021.00
+64.11,2008,National post activities,Postmasters and Mail Superintendents,11-9131.00
+64.12,2008,Courier activities other than national post activities,Couriers and Messengers,43-5021.00
+64.2,2008,Telecommunications,Telecommunications Engineering Specialists,15-1241.01
+64.22,2008,Mobile telecommunication carriers,"Radio, Cellular, and Tower Equipment Installers and Repairers",49-2021.00
+64.23,2008,Internet service providers,Computer Network Support Specialists,15-1231.00
+64.24,2008,Other telecommunication activities,Telecommunications Engineering Specialists,15-1241.01
+68.1,2009,Buying and selling of own real estate,Real Estate Sales Agents,41-9022.00
+68.209,2009,Other letting of real estate,"Property, Real Estate, and Community Association Managers",11-9141.00
+68.31,2009,Real estate agencies,"Property, Real Estate, and Community Association Managers",11-9141.00
+68.32,2009,Management of real estate on a fee or contract basis,"Property, Real Estate, and Community Association Managers",11-9141.00
+69.1,2009,Legal and accounting activities,"Tax Examiners and Collectors, and Revenue Agents",13-2081.00
+69.202,2009,"Accounting, bookkeeping and auditing activities; tax consultancy","Bookkeeping, Accounting, and Auditing Clerks",43-3031.00
+69.201,2009,Accounting and bookkeeping,"Bookkeeping, Accounting, and Auditing Clerks",43-3031.00
+70.111,2008,House building cooperative,Manufactured Building and Mobile Home Installers,49-9095.00
+70.112,2008,Other development and sale of real estate,"Property, Real Estate, and Community Association Managers",11-9141.00
+70.12,2008,Buying and selling of own real estate,Real Estate Sales Agents,41-9022.00
+70.202,2008,Other letting of own property,"Property, Real Estate, and Community Association Managers",11-9141.00
+70.21,2009,Public relations and communication activities,Public Relations Specialists,27-3031.00
+70.22,2009,Business and other management consultancy activities,Management Analysts,13-1111.00
+70.31,2008,Real estate agencies,"Property, Real Estate, and Community Association Managers",11-9141.00
+70.32,2008,Management of real estate on a fee or contract basis,"Property, Real Estate, and Community Association Managers",11-9141.00
+70.321,2008,Management of real estate on a fee or contract basis,"Property, Real Estate, and Community Association Managers",11-9141.00
+70.322,2008,Caretaker services,Animal Caretakers,39-2021.00
+71.129,2008,Renting of automobiles,Parking Attendants,53-6021.00
+71.1,2008,Renting of automobiles,Parking Attendants,53-6021.00
+71.129,2009,Architectural and engineering activities and related technical consultancy,Architectural and Engineering Managers,11-9041.00
+71.111,2009,Planning and regulation services,Regulatory Affairs Managers,11-9199.01
+71.112,2009,Architectural design services for buildings,"Architects, Except Landscape and Naval",17-1011.00
+71.113,2009,Landscape architectural services,Landscape Architects,17-1012.00
+71.121,2009,Civil engineering activities,Civil Engineers,17-2051.00
+71.122,2009,Geological surveying,Geodetic Surveyors,17-1022.01
+71.2,2009,Technical testing and analysis,Quality Control Analysts,19-4099.01
+71.21,2008,Renting of other land transport equipment,"Bus Drivers, Transit and Intercity",53-3052.00
+71.22,2008,Renting of water transport equipment,Automotive and Watercraft Service Attendants,53-6031.00
+71.23,2008,Renting of air transport equipment,"Electrical and Electronics Installers and Repairers, Transportation Equipment",49-2093.00
+71.31,2008,Renting of agricultural machinery and equipment,Agricultural Equipment Operators,45-2091.00
+71.32,2008,Renting of construction and civil engineering machinery and equipment,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+71.33,2008,Renting of office machinery and equipment including computers,"Office Machine Operators, Except Computer",43-9071.00
+71.34,2008,Renting of other machinery and equipment n.e.c.,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+71.4,2008,Renting of personal and household goods n.e.c.,"Property, Real Estate, and Community Association Managers",11-9141.00
+72.1,2008,Hardware consultancy,Computer Hardware Engineers,17-2061.00
+72.11,2009,Research and experimental development on biotechnology,Biofuels/Biodiesel Technology and Product Development Managers,11-9041.01
+72.19,2009,Other research and experimental development on natural sciences and engineering,Physicists,19-2012.00
+72.2,2008,Software consultancy and supply,Procurement Clerks,43-3061.00
+72.21,2008,Publishing of software,Desktop Publishers,43-9031.00
+72.22,2008,Other software consultancy and supply,Procurement Clerks,43-3061.00
+72.4,2008,Database activities,Database Administrators,15-1242.00
+73.1,2008,Research and experimental development on natural sciences and engineering,Chemical Engineers,17-2041.00
+73.12,2009,Advertising,Advertising Sales Agents,41-3011.00
+73.11,2009,Advertising agencies,Advertising Sales Agents,41-3011.00
+73.2,2009,Market research and public opinion polling,Market Research Analysts and Marketing Specialists,13-1161.00
+74.83,2008,Other business activities,Waiters and Waitresses,35-3031.00
+74.84,2008,Other business activities,Waiters and Waitresses,35-3031.00
+74.879,2008,Other business activities,Waiters and Waitresses,35-3031.00
+74.909,2008,Other business activities,Waiters and Waitresses,35-3031.00
+74.101,2009,"Industrial design, product design and other technical design",Commercial and Industrial Designers,27-1021.00
+74.102,2009,Graphic and communication design,Graphic Designers,27-1024.00
+74.103,2009,"Interior decorator-, interior design- and other interior advising services","Educational, Guidance, and Career Counselors and Advisors",21-1012.00
+74.121,2008,Accounting and book-keeping,"Bookkeeping, Accounting, and Auditing Clerks",43-3031.00
+74.123,2008,Tax consultancy services,Tax Preparers,13-2082.00
+74.13,2008,Market research and public opinion polling,Market Research Analysts and Marketing Specialists,13-1161.00
+74.14,2008,Business and management consultancy activities,Management Analysts,13-1111.00
+74.15,2008,Management activities of holding companies,Treasurers and Controllers,11-3031.01
+74.2,2008,Architectural and engineering activities and related technical consultancy,Architectural and Engineering Managers,11-9041.00
+74.2,2009,Photographic activities,Photographers,27-4021.00
+74.201,2008,Architectural activities,Architectural and Engineering Managers,11-9041.00
+74.202,2008,Civil engineering activities,Civil Engineers,17-2051.00
+74.203,2008,Geological surveying,Geodetic Surveyors,17-1022.01
+74.209,2008,Other technical consultancy activities,Technical Writers,27-3042.00
+74.3,2008,Technical testing and analysis,Quality Control Analysts,19-4099.01
+74.3,2009,Translation and interpretation activities,Interpreters and Translators,27-3091.00
+74.4,2008,Advertising,Advertising Sales Agents,41-3011.00
+74.501,2008,Labour recruitment and provision of personnel,Farm Labor Contractors,13-1074.00
+74.502,2008,Provision of personnel,"Production, Planning, and Expediting Clerks",43-5061.00
+74.6,2008,Investigation and security activities,Detectives and Criminal Investigators,33-3021.00
+74.7,2008,Industrial cleaning,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",51-9192.00
+74.81,2008,Photographic activities,Photographers,27-4021.00
+74.82,2008,Packaging activities,"Packers and Packagers, Hand",53-7064.00
+74.851,2008,Secretarial activities,Medical Secretaries and Administrative Assistants,43-6013.00
+74.852,2008,Translation activities,Interpreters and Translators,27-3091.00
+74.86,2008,Call centre activities,Telephone Operators,43-2021.00
+74.871,2008,Bill collecting and credit granting activities,Bill and Account Collectors,43-3011.00
+74.872,2008,Designers activities,Commercial and Industrial Designers,27-1021.00
+74.873,2008,Interior decoraters activities,"Painting, Coating, and Decorating Workers",51-9123.00
+74.876,2008,Impresario activities,Recreation Workers,39-9032.00
+74.877,2008,"Activities of fair, exibition and congress organizers","Meeting, Convention, and Event Planners",13-1121.00
+74.903,2009,Impresario activities,Recreation Workers,39-9032.00
+75,2009,Veterinary activities,Veterinary Assistants and Laboratory Animal Caretakers,31-9096.00
+77.11,2009,Renting and leasing of cars and light motor vehicles,Light Truck Drivers,53-3033.00
+77.21,2009,Renting and leasing of recreational and sports goods,"Property, Real Estate, and Community Association Managers",11-9141.00
+77.29,2009,Renting and leasing of other personal and household goods,"Property, Real Estate, and Community Association Managers",11-9141.00
+77.31,2009,Renting and leasing of agricultural machinery and equipment,Agricultural Equipment Operators,45-2091.00
+77.32,2009,Renting and leasing of construction and civil engineering machinery and equipment,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+77.33,2009,Renting and leasing of office machinery and equipment (including computers),"Office Machine Operators, Except Computer",43-9071.00
+77.34,2009,Renting and leasing of water transport equipment,Automotive and Watercraft Service Attendants,53-6031.00
+77.39,2009,"Renting and leasing of other machinery, equipment and tangible goods n.e.c.",Power Distributors and Dispatchers,51-8012.00
+77.4,2009,"Leasing of intellectual property and similar products, except copyrighted works",Procurement Clerks,43-3061.00
+78.1,2009,Activities of employment placement agencies,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+78.2,2009,Temporary employment agency activities,"Human Resources Assistants, Except Payroll and Timekeeping",43-4161.00
+79.11,2009,Travel agency activities,Travel Agents,41-3041.00
+79.12,2009,Tour operator activities,Tour Guides and Escorts,39-7011.00
+79.903,2009,Other reservation service and related activities,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181.00
+79.901,2009,Tourist offices,"Hotel, Motel, and Resort Desk Clerks",43-4081.00
+79.902,2009,Tour guides and leaders,Travel Guides,39-7012.00
+79.909,2009,Tourist related activities n.e.c.,Travel Guides,39-7012.00
+80.1,2009,Private security activities,Private Detectives and Investigators,33-9021.00
+80.2,2009,Security systems service activities,Security and Fire Alarm Systems Installers,49-2098.00
+80.21,2008,General secondary education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+80.22,2008,Technical and vocational secondary education,"Career/Technical Education Teachers, Secondary School",25-2032.00
+80.41,2008,Adult and other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+80.423,2008,Activities of adult education associations,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+80.429,2008,Other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+81.101,2009,Caretaker services,Animal Caretakers,39-2021.00
+81.21,2009,Cleaning activities,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011.00
+81.22,2009,Cleaning activities,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011.00
+81.299,2009,Other cleaning activities n.e.c.,Cleaners of Vehicles and Equipment,53-7061.00
+81.3,2009,Landscape service activities,Landscaping and Groundskeeping Workers,37-3011.00
+82.11,2009,Combined office administrative activities,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43-6014.00
+82.202,2009,Outbound call centres,Telephone Operators,43-2021.00
+82.3,2009,Organisation of conventions and trade shows,"Meeting, Convention, and Event Planners",13-1121.00
+85.159,2008,Human health activities,Community Health Workers,21-1094.00
+85.145,2008,Human health activities,Community Health Workers,21-1094.00
+85.121,2008,General practitioners,General Internal Medicine Physicians,29-1216.00
+85.122,2008,"Physicians, specialists other than psychiatrists",Psychiatrists,29-1223.00
+85.123,2008,Out-patient clinics,Hospitalists,29-1229.02
+85.13,2008,Dental practice activities,Dental Assistants,31-9091.00
+85.141,2008,Home nursing care,Home Health Aides,31-1121.00
+85.142,2008,Physiotherapy services,Physical Medicine and Rehabilitation Physicians,29-1229.04
+85.143,2008,"School health services, maternal and child health care","Education and Childcare Administrators, Preschool and Daycare",11-9031.00
+85.144,2008,Other preventive health care,Preventive Medicine Physicians,29-1229.05
+85.147,2008,Ambulance services,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3011.00
+85.149,2008,Other health activities,Community Health Workers,21-1094.00
+85.2,2008,Veterinary activities,Veterinary Assistants and Laboratory Animal Caretakers,31-9096.00
+85.201,2009,General primary education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+85.311,2008,Child welfare institutions,"Child, Family, and School Social Workers",21-1021.00
+85.321,2008,Home help,Farm and Home Management Educators,25-9021.00
+85.323,2008,Child welfare services,"Child, Family, and School Social Workers",21-1021.00
+85.327,2008,Early childhood education and care institutions,"Education and Childcare Administrators, Preschool and Daycare",11-9031.00
+85.328,2008,Play groups,Recreation Workers,39-9032.00
+85.335,2008,Permanent sheltered work activities,Recreation Workers,39-9032.00
+85.41,2009,Post-secondary non-tertiary education,"Education Administrators, Postsecondary",11-9033.00
+85.53,2009,Other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+85.595,2009,Other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+85.51,2009,Sports and recreation education,"Recreation and Fitness Studies Teachers, Postsecondary",25-1193.00
+85.522,2009,Art education,"Art, Drama, and Music Teachers, Postsecondary",25-1121.00
+85.599,2009,Other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+85.601,2009,Educational and psychological counselling services,Clinical and Counseling Psychologists,19-3033.00
+85.609,2009,Other educational support services,"Child, Family, and School Social Workers",21-1021.00
+86.211,2009,General practitioners,General Internal Medicine Physicians,29-1216.00
+86.221,2009,"Physicians, specialists other than psychiatrists",Psychiatrists,29-1223.00
+86.23,2009,Dental practice activities,Dental Assistants,31-9091.00
+86.909,2009,Other human health activities,Community Health Workers,21-1094.00
+86.902,2009,Physiotherapy services,Physical Medicine and Rehabilitation Physicians,29-1229.04
+86.904,2009,Other preventive health care,Preventive Medicine Physicians,29-1229.05
+86.905,2009,Psychologist services,Clinical and Counseling Psychologists,19-3033.00
+88.999,2009,Social work activities without accommodation,Personal Care Aides,31-1122.00
+88.101,2009,Home help,Farm and Home Management Educators,25-9021.00
+88.911,2009,Nursery schools,"Education and Childcare Administrators, Preschool and Daycare",11-9031.00
+88.912,2009,Play groups and nurseries,Clinical Nurse Specialists,29-1141.04
+88.991,2009,Child welfare care,"Child, Family, and School Social Workers",21-1021.00
+90,2008,"Sewage and refuse disposal, sanitation and similar activities",Recycling and Reclamation Workers,53-7062.04
+90.04,2009,"Creative, arts and entertainment activities","Art, Drama, and Music Teachers, Postsecondary",25-1121.00
+90.01,2008,Collection and treatment of sewage,Water and Wastewater Treatment Plant and System Operators,51-8031.00
+90.011,2009,Performing artists and music entertainment activities,Musicians and Singers,27-2042.00
+90.012,2009,Performing artists and entertainment activities within dramatic art,Actors,27-2011.00
+90.019,2009,Performing artists and other entertainment activities,Musicians and Singers,27-2042.00
+90.02,2008,Collection and treatment of other waste,Refuse and Recyclable Material Collectors,53-7081.00
+90.02,2009,Support activities to performing arts,Musicians and Singers,27-2042.00
+90.03,2008,"Sanitation, remediation and similar activities",Recycling and Reclamation Workers,53-7062.04
+90.031,2009,Independent artistic activity within visual art,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013.00
+90.032,2009,Independent artistic activity within music,Music Directors and Composers,27-2041.00
+90.033,2009,Independent artistic activity within dramatic art,"Art, Drama, and Music Teachers, Postsecondary",25-1121.00
+90.034,2009,Independent artistic activity within literature,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013.00
+90.039,2009,Other independent artistic activity,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013.00
+91.03,2009,Operation of historical sites and buildings and similar visitor attractions,Curators,25-4012.00
+91.11,2008,Activities of business and employers organizations,Industrial-Organizational Psychologists,19-3032.00
+92.32,2008,"Recreational, cultural and sporting activities",Recreation Workers,39-9032.00
+92.34,2008,"Recreational, cultural and sporting activities",Recreation Workers,39-9032.00
+92.4,2008,"Recreational, cultural and sporting activities",Recreation Workers,39-9032.00
+92,2009,Gambling and betting activities,Gambling and Sports Book Writers and Runners,39-3012.00
+92.11,2008,Motion picture and video production,Film and Video Editors,27-4032.00
+92.12,2008,Motion picture and video distribution,"Camera Operators, Television, Video, and Film",27-4031.00
+92.13,2008,Motion picture projection,Motion Picture Projectionists,39-3021.00
+92.2,2008,Radio and television activities,Broadcast Announcers and Radio Disc Jockeys,27-3011.00
+92.31,2008,Artistic and literary creation and interpretation,"Poets, Lyricists and Creative Writers",27-3043.05
+92.33,2008,Fair and amusement park activities,Amusement and Recreation Attendants,39-3091.00
+92.52,2008,Museums activities and preservation of historical sites and buildings,Museum Technicians and Conservators,25-4013.00
+92.53,2008,Botanical and zoological gardens and nature reserves activities,Park Naturalists,19-1031.03
+92.61,2008,Operation of sports arenas and stadiums,Athletes and Sports Competitors,27-2021.00
+92.62,2008,Other sporting activities,Athletes and Sports Competitors,27-2021.00
+92.621,2008,Sports clubs and associations,Athletes and Sports Competitors,27-2021.00
+92.622,2008,Operation of sports arenas and stadiums by sports clubs and associations,Athletes and Sports Competitors,27-2021.00
+92.629,2008,Other sporting activities n.e.c.,Athletes and Sports Competitors,27-2021.00
+92.721,2008,Other recreational activities,Recreation Workers,39-9032.00
+92.71,2008,Gambling and betting activities,Gambling and Sports Book Writers and Runners,39-3012.00
+92.72,2008,Other recreational activities n.e.c.,Recreational Therapists,29-1125.00
+92.722,2008,Leisure establisments,Recreation Workers,39-9032.00
+92.729,2008,Other recreational services n.e.c.,Recreational Therapists,29-1125.00
+93.05,2008,Other service activities,Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011.00
+93.01,2008,Washing and drycleaning of textile and fur products,Laundry and Dry-Cleaning Workers,51-6011.00
+93.02,2008,Hairdressing and other beauty treatment,"Hairdressers, Hairstylists, and Cosmetologists",39-5012.00
+93.03,2008,Funeral and related activities,"Morticians, Undertakers, and Funeral Arrangers",39-4031.00
+93.04,2008,Physical well-being activities,Recreational Therapists,29-1125.00
+93.11,2009,Operation of sports facilities,Athletes and Sports Competitors,27-2021.00
+93.13,2009,Fitness facilities,Fitness and Wellness Coordinators,11-9179.01
+93.19,2009,Other sports activities,Athletes and Sports Competitors,27-2021.00
+93.291,2009,Amusement and recreation activities,Amusement and Recreation Attendants,39-3091.00
+93.21,2009,Activities of amusement parks and theme parks,Amusement and Recreation Attendants,39-3091.00
+94.991,2009,Activities of other membership organisations,Recreation Workers,39-9032.00
+95.11,2009,Repair of computers and peripheral equipment,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094.00
+95.22,2009,Repair of household appliances and home and garden equipment,Home Appliance Repairers,49-9031.00
+95.25,2009,"Repair of watches, clocks and jewellery",Watch and Clock Repairers,49-9064.00
+95.29,2009,Repair of other personal and household goods,Home Appliance Repairers,49-9031.00
+96.02,2009,Hairdressing and other beauty treatment,"Hairdressers, Hairstylists, and Cosmetologists",39-5012.00
+96.03,2009,Funeral and related activities,"Morticians, Undertakers, and Funeral Arrangers",39-4031.00
+96.04,2009,Physical well-being activities,Recreational Therapists,29-1125.00
+1,2008,,,
+1.21,2008,Growing of grapes,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092.00
+1.61,2008,Support activities for crop production,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092.00
+3.111,2008,Ocean and coastal water fishing,"Captains, Mates, and Pilots of Water Vessels",53-5021.00
+3.213,2008,Marine fish farming services,"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093.00
+5.021,2008,Mining of coal and lignite,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-5022.00
+5.011,2008,Mining of coal and lignite,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-5022.00
+5.023,2008,Mining of coal and lignite,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-5022.00
+5.013,2008,Mining of coal and lignite,"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-5022.00
+8.111,2008,Quarrying of ornamental and building stone,"Stone Cutters and Carvers, Manufacturing",51-9195.03
+9.109,2008,Other support activities for petroleum and natural gas extraction,Petroleum Engineers,17-2171.00
+10.71,2008,Manufacture of bread; manufacture of fresh pastry goods and cakes,Bakers,51-3011.00
+13.3,2008,Finishing of textiles,Fabric and Apparel Patternmakers,51-6092.00
+14.19,2008,Manufacture of other wearing apparel and accessories,Fashion Designers,27-1022.00
+16.29,2009,Manufacture of tobacco products,"Potters, Manufacturing",51-9195.05
+16.1,2008,Sawing and planing of wood,Cabinetmakers and Bench Carpenters,51-7011.00
+18.12,2008,Other printing,Printing Press Operators,51-5112.00
+20.2,2008,Manufacture of pesticides and other agrochemical products,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",37-3012.00
+22.21,2008,"Manufacture of plastic plates, sheets, tubes and profiles","Layout Workers, Metal and Plastic",51-4192.00
+23.61,2008,Manufacture of concrete products for construction purposes,Cement Masons and Concrete Finishers,47-2051.00
+25.62,2008,Machining,Machinists,51-4041.00
+26.3,2009,Manufacture of ceramic tiles and flags,Tile and Stone Setters,47-2044.00
+27.9,2008,Manufacture of other electrical equipment,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094.00
+31.09,2008,Manufacture of other furniture,Furniture Finishers,51-7021.00
+33.12,2008,Repair of machinery,"Maintenance Workers, Machinery",49-9043.00
+33.15,2008,Repair and maintenance of ships and boats,Sailors and Marine Oilers,53-5011.00
+33.2,2008,Installation of industrial machinery and equipment,Industrial Machinery Mechanics,49-9041.00
+35.115,2008,"Electric power generation, transmission and distribution",Electrical Engineers,17-2071.00
+38.11,2008,Collection of non-hazardous waste,Refuse and Recyclable Material Collectors,53-7081.00
+41.109,2008,Other development and sale of real estate,"Property, Real Estate, and Community Association Managers",11-9141.00
+41.2,2008,Construction of residential and non-residential buildings,Manufactured Building and Mobile Home Installers,49-9095.00
+42.21,2008,Construction of utility projects for fluids,Water/Wastewater Engineers,17-2051.02
+43.12,2008,Site preparation,"Mining and Geological Engineers, Including Mining Safety Engineers",17-2151.00
+43.21,2008,Electrical installation,Electrical Power-Line Installers and Repairers,49-9051.00
+43.22,2008,"Plumbing, heat and air-conditioning installation","Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021.00
+43.33,2008,Floor and wall covering,"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042.00
+43.99,2008,Other specialised construction activities n.e.c.,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+45.111,2008,"Commission and wholesale trade of cars and light motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.112,2008,"Retail sale of cars and light motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+45.192,2008,"Retail sale of other motor vehicles, except motorcycles","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.13,2008,Agents involved in the sale of timber and building materials,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.16,2008,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods","Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.19,2008,Agents involved in the sale of a variety of goods,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023.00
+46.37,2008,"Wholesale of coffee, tea, cocoa and spices","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.381,2008,"Wholesale of fish, crustaceans and molluscs","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.389,2008,Wholesale of other food n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.39,2008,"Non-specialised wholesale of food, beverages and tobacco","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.473,2008,Wholesale of household goods,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.421,2008,Wholesale of clothing,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.441,2008,Wholesale of china and glassware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.442,2008,Wholesale of cleaning materials,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.46,2008,Wholesale of pharmaceutical goods,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.471,2008,Wholesale of furniture,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.482,2008,Wholesale of gold and silver ware,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.493,2008,Wholesale of pleasure boats and -equipment,Motorboat Operators,53-5022.00
+46.494,2008,Wholesale of sporting equipment,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.499,2008,Wholesale of other household and personal goods n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.51,2008,"Wholesale of computers, computer peripheral equipment and software","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.52,2008,Wholesale of electronic and telecommunications equipment and parts,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+46.62,2008,Wholesale of machine tools,Tool and Die Makers,51-4111.00
+46.66,2008,Wholesale of other office machinery and equipment,"Paper Goods Machine Setters, Operators, and Tenders",51-9196.00
+46.694,2008,"Wholesale of machinery and equipment for trade, transport and services n.e.c.","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011.00
+46.739,2008,Wholesale of construction materials n.e.c.,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.111,2008,"Retail sale in non-specialised stores with food, beverages or tobacco predominating","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.241,2008,"Retail sale of bread, cakes and flour confectionery in specialised stores","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.291,2008,Retail sale of health foods in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.41,2008,"Retail sale of computers, peripheral units and software in specialised stores","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.51,2008,Retail sale of textiles in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.593,2008,Retail sale of china and glassware in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.599,2008,Retail sale of non-electrical household articles n.e.c. in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.641,2008,Retail sale of sporting equipment in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.71,2008,Retail sale of clothing in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.73,2008,Dispensing chemist in specialised stores,Chemists,19-2031.00
+47.75,2008,Retail sale of cosmetic and toilet articles in specialised stores,Merchandise Displayers and Window Trimmers,27-1026.00
+47.761,2008,"Retail sale of flowers, plants, seeds and fertilisers in specialised stores","Buyers and Purchasing Agents, Farm Products",13-1021.00
+47.762,2008,Retail sale of pet animals and pet food in specialised stores,Animal Caretakers,39-2021.00
+47.772,2008,Retail sale of gold and silver ware in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.789,2008,Other retail sale of goods in specialised stores,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.911,2008,Retail sale of variety of goods via mail order houses or via Internet,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.912,2008,"Retail sale of textiles, clothes, footwear, travel accessories and leather goods via mail order houses or via Internet","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.919,2008,Other retail sale of specialised assortment of goods via mail order houses or via Internet,"Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+47.99,2008,"Other retail sale not in stores, stalls or markets","Wholesale and Retail Buyers, Except Farm Products",13-1022.00
+49.32,2008,Other passenger land transport,"Bus Drivers, Transit and Intercity",53-3052.00
+49.392,2008,Charters and excursions bus services,"Bus Drivers, Transit and Intercity",53-3052.00
+49.393,2008,Cableway transport and skilifts,Subway and Streetcar Operators,53-4041.00
+49.41,2008,Freight transport by road,Cargo and Freight Agents,43-5011.00
+53.2,2008,Other postal and courier activities,Couriers and Messengers,43-5021.00
+55.301,2009,Operation of restaurants and cafés,Waiters and Waitresses,35-3031.00
+56.101,2008,Operation of restaurants and cafes,Waiters and Waitresses,35-3031.00
+56.102,2008,"Operation of snack-bars, salad bars and hot-dog bars","Cooks, Institution and Cafeteria",35-2012.00
+56.21,2008,Event catering activities,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031.00
+56.301,2008,Pubs,Bartenders,35-3011.00
+56.309,2008,Other beverage serving activities,Bartenders,35-3011.00
+59.11,2008,"Motion picture, video and television programme production activities","Camera Operators, Television, Video, and Film",27-4031.00
+59.2,2008,Sound recording and music publishing activities,Sound Engineering Technicians,27-4014.00
+62.01,2008,Computer programming activities,Computer Programmers,15-1251.00
+62.02,2008,Computer consultancy activities,Computer and Information Systems Managers,11-3021.00
+63.12,2009,Storage and warehousing,Data Warehousing Specialists,15-1243.01
+64.303,2008,"Trusts, funds and similar financial entities",Tellers,43-3071.00
+68.1,2008,Buying and selling of own real estate,Real Estate Sales Agents,41-9022.00
+68.209,2008,Other letting of real estate,"Property, Real Estate, and Community Association Managers",11-9141.00
+68.31,2008,Real estate agencies,"Property, Real Estate, and Community Association Managers",11-9141.00
+68.32,2008,Management of real estate on a fee or contract basis,"Property, Real Estate, and Community Association Managers",11-9141.00
+69.1,2008,Legal and accounting activities,"Tax Examiners and Collectors, and Revenue Agents",13-2081.00
+69.201,2008,Accounting and bookkeeping,"Bookkeeping, Accounting, and Auditing Clerks",43-3031.00
+70.22,2008,Business and other management consultancy activities,Management Analysts,13-1111.00
+71.113,2008,Landscape architectural services,Landscape Architects,17-1012.00
+71.121,2008,Civil engineering activities,Civil Engineers,17-2051.00
+72.6,2008,Scientific research and development,Physicists,19-2012.00
+72.3,2008,Scientific research and development,Physicists,19-2012.00
+73.11,2008,Advertising agencies,Advertising Sales Agents,41-3011.00
+74.901,2009,Other business activities,Waiters and Waitresses,35-3031.00
+74.909,2009,Other business activities,Waiters and Waitresses,35-3031.00
+74.122,2008,Specialised design activities,Commercial and Industrial Designers,27-1021.00
+74.11,2008,Specialised design activities,Commercial and Industrial Designers,27-1021.00
+74.101,2008,"Industrial design, product design and other technical design",Commercial and Industrial Designers,27-1021.00
+74.102,2008,Graphic and communication design,Graphic Designers,27-1024.00
+74.103,2008,"Interior decorator-, interior design- and other interior advising services","Educational, Guidance, and Career Counselors and Advisors",21-1012.00
+74.903,2008,Impresario activities,Recreation Workers,39-9032.00
+77.11,2008,Renting and leasing of cars and light motor vehicles,Light Truck Drivers,53-3033.00
+77.21,2008,Renting and leasing of recreational and sports goods,"Property, Real Estate, and Community Association Managers",11-9141.00
+77.29,2008,Renting and leasing of other personal and household goods,"Property, Real Estate, and Community Association Managers",11-9141.00
+77.34,2008,Renting and leasing of water transport equipment,Automotive and Watercraft Service Attendants,53-6031.00
+78.2,2008,Temporary employment agency activities,"Human Resources Assistants, Except Payroll and Timekeeping",43-4161.00
+79.11,2008,Travel agency activities,Travel Agents,41-3041.00
+79.903,2008,Other reservation service and related activities,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181.00
+81.21,2008,Cleaning activities,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011.00
+81.3,2008,Landscape service activities,Landscaping and Groundskeeping Workers,37-3011.00
+82.99,2009,,,
+82.99,2008,,,
+82.201,2008,Inbound call centres,Telephone Operators,43-2021.00
+85.329,2008,Secondary education,"Secondary School Teachers, Except Special and Career/Technical Education",25-2031.00
+85.339,2008,Secondary education,"Secondary School Teachers, Except Special and Career/Technical Education",25-2031.00
+85.53,2008,Other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+85.51,2008,Sports and recreation education,"Recreation and Fitness Studies Teachers, Postsecondary",25-1193.00
+85.522,2008,Art education,"Art, Drama, and Music Teachers, Postsecondary",25-1121.00
+85.599,2008,Other education,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011.00
+86.211,2008,General practitioners,General Internal Medicine Physicians,29-1216.00
+86.221,2008,"Physicians, specialists other than psychiatrists",Psychiatrists,29-1223.00
+86.23,2008,Dental practice activities,Dental Assistants,31-9091.00
+86.909,2008,Other human health activities,Community Health Workers,21-1094.00
+88.888,2008,Social work activities without accommodation,Personal Care Aides,31-1122.00
+88.991,2008,Child welfare care,"Child, Family, and School Social Workers",21-1021.00
+90.011,2008,Performing artists and music entertainment activities,Musicians and Singers,27-2042.00
+90.012,2008,Performing artists and entertainment activities within dramatic art,Actors,27-2011.00
+90.031,2008,Independent artistic activity within visual art,"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013.00
+93.13,2008,Fitness facilities,Fitness and Wellness Coordinators,11-9179.01
+93.291,2008,Amusement and recreation activities,Amusement and Recreation Attendants,39-3091.00
+96.09,2009,,,
+96.09,2008,,,
+96.02,2008,Hairdressing and other beauty treatment,"Hairdressers, Hairstylists, and Cosmetologists",39-5012.00
